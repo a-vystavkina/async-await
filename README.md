@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4k19by4nxoi4e8pj?svg=true)](https://ci.appveyor.com/project/a-vystavkina/async-await)
